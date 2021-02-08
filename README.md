@@ -39,5 +39,4 @@ This Project is a Work in Progress, and using the following mods:
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info/)
 - [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core/)
 - [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks/)
-- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism/)
-- [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/)
